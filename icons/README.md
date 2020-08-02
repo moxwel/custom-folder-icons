@@ -9,6 +9,7 @@
   * `retrofolder` - Retroarch
   * `rockstarfolder` - Rockstar Games
   * `steamfolder` - Steam
+  * `openrctfolder` - OpenRCT2
 
 * Programs
   * `dropboxfolder` - Dropbox
@@ -25,6 +26,7 @@
   * `vscodefolder` - Visual Studio Code
   * `vsfolder` - Visual Studio
   * `zoomfolder` - Zoom
+  * `shotcutfolder` - Shotcut
 
 * System
   * `cursorfolder` - Cursors folder
