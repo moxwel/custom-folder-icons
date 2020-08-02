@@ -1,15 +1,21 @@
 # Avalible icons
 
+![Preview image](./games/preview.png)
+
 * Games
   * `dolphinfolder` - Dolphin emulator
   * `gmodfolder` - Garry's Mod
   * `lolfolder` - League of Legends
   * `mcfolder` - Minecraft
+  * `openrctfolder` - OpenRCT2
   * `owfolder` - Overwatch
   * `retrofolder` - Retroarch
   * `rockstarfolder` - Rockstar Games
   * `steamfolder` - Steam
-  * `openrctfolder` - OpenRCT2
+
+---
+
+![Preview image](./programs/preview.png)
 
 * Programs
   * `dropboxfolder` - Dropbox
@@ -19,6 +25,7 @@
   * `pnetfolder` - Paint<span>.net
   * `programfolder` - Generic program folder
   * `saifolder` - PaintTool SAI
+  * `shotcutfolder` - Shotcut
   * `shrlnkfolder` - ASUS Share Link [DEPRECATED]
   * `unityfolder` - Unity
   * `vboxfolder` - VirtualBox
@@ -26,7 +33,10 @@
   * `vscodefolder` - Visual Studio Code
   * `vsfolder` - Visual Studio
   * `zoomfolder` - Zoom
-  * `shotcutfolder` - Shotcut
+
+---
+
+![Preview image](./system/preview.png)
 
 * System
   * `cursorfolder` - Cursors folder
