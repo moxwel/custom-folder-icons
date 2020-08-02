@@ -1,6 +1,6 @@
 # Custom Folder Icons
 
-Multipurpose folder icons for a variety of programs
+Multipurpose folder icons for a variety of programs and games.
 
 ![icons.png](./readme_assets/icons.png)
 
