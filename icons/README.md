@@ -18,7 +18,7 @@
   * `pnetfolder` - Paint<span>.net
   * `programfolder` - Generic program folder
   * `saifolder` - PaintTool SAI
-  * `shrlnkfolder` - Asus Share Link [DEPRECATED]
+  * `shrlnkfolder` - ASUS Share Link [DEPRECATED]
   * `unityfolder` - Unity
   * `vboxfolder` - VirtualBox
   * `vmfolder` - VMware
