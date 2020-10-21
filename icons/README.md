@@ -1,4 +1,4 @@
-# Avalible icons
+# Avaliable icons
 
 ![Preview image](./games/preview.png)
 
