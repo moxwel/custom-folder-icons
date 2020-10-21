@@ -32,6 +32,7 @@
   * `vmfolder` - VMware
   * `vscodefolder` - Visual Studio Code
   * `vsfolder` - Visual Studio
+  * `xboxgambarfolder` - Xbox Game Bar
   * `zoomfolder` - Zoom
 
 ---
@@ -49,3 +50,6 @@
   * `ubuntufolder` - Ubuntu folder
   * `userfolder` - User personal folder
   * `winfolder` - Windows folder
+  * **vscode_files**:
+
+![Preview image](./system/vscode_files/preview.png)
