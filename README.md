@@ -19,3 +19,7 @@ Select _Browse_ and search for the icon you want. Select it and apply it.
 ## Request and contribute
 
 Open a issue if you want to request a custom folder, or if you already have done one, open a pull request!
+
+---
+
+Coming soon sometime... Maybe an automated program to do this...
