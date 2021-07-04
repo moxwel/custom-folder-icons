@@ -52,4 +52,4 @@
   * `winfolder` - Windows folder
   * **vscode_files**:
 
-![Preview image](./system/vscode_files/preview.png)
+![Preview image](./system/files/vscode_files/preview.png)
